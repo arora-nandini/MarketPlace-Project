@@ -5,6 +5,9 @@ The platform also integrates an **AI-based plagiarism checker** powered by a Pyt
 
 ---
 
+## Github Link:
+https://github.com/arora-nandini/MarketPlace-Project
+
 ## 🚀 Features
 
 ### 👤 Authentication
